@@ -41,6 +41,7 @@ body {
     height: 300px;
 }
 
-#box h2 {
+#box h1 {
     color: var(--dark-blue);
+    font-size: 25px;
 }
